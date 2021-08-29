@@ -1,0 +1,12 @@
+{
+  "name": "tester",
+  "packageManager": "yarn@3.0.1",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^16.7.6",
+    "typescript": "^4.4.2"
+  }
+}
